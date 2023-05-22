@@ -1,2 +1,3 @@
-# odin-landing-page
-TOP's Landing Page html and css project.
+In this project, I'll be applying all that I've learned so far about html and css.
+
+Flexboxes abound...
